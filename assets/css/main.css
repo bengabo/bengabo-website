@@ -1258,7 +1258,7 @@ input, select, textarea {
 
 	.gif {
 		image-rendering: auto;
-		width: 75%;
+		width: 100%;
 	}
 
 		#header > * {
